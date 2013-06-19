@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.404,C:\Users\rbhbokka\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\rbhbokka\Documents\GitHub\course_proj\alpha\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.509,C:\Users\rbhbokka\Documents\GitHub\course_proj\dev\Project1.dproj=C:\Users\rbhbokka\Documents\GitHub\course_proj\alpha\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.404,C:\Users\rbhbokka\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\rbhbokka\Documents\GitHub\course_proj\alpha\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,C:\Users\rbhbokka\Documents\GitHub\course_proj\beta_0.2]\compressor.dproj=C:\Users\rbhbokka\Documents\GitHub\course_proj\0.9\compressor.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.490,C:\Users\rbhbokka\Documents\GitHub\course_proj\beta_rle_c-d_lzw_c\compress.dproj=C:\Users\rbhbokka\Documents\GitHub\course_proj\beta_0.2]\compressor.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.642,C:\Users\rbhbokka\Documents\GitHub\course_proj\beta_rle_c-d_lzw_c\compress.dproj=C:\Users\rbhbokka\Documents\GitHub\course_proj\alpha\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.261,=C:\Users\rbhbokka\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.551,C:\Users\rbhbokka\Documents\GitHub\course_proj\alpha\Project1.dproj=C:\Users\rbhbokka\Documents\GitHub\course_proj\alpha\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.284,C:\Users\rbhbokka\Documents\GitHub\course_proj\alpha\Project1.dproj=C:\Users\rbhbokka\Documents\GitHub\course_proj\alpha\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.633,C:\Users\rbhbokka\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\rbhbokka\Documents\GitHub\course_proj\dev\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.370,C:\Users\rbhbokka\Documents\GitHub\course_proj\alpha\Project1.dproj=C:\Users\rbhbokka\Documents\GitHub\course_proj\alpha\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.911,C:\Users\rbhbokka\Documents\GitHub\course_proj\alpha\Project1.dproj=C:\Users\rbhbokka\Documents\GitHub\course_proj\alpha\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.956,C:\Users\rbhbokka\Documents\GitHub\course_proj\alpha\Project1.dproj=C:\Users\rbhbokka\Downloads\alpha\alpha\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
