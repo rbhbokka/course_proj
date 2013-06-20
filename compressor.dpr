@@ -2,7 +2,7 @@ program compressor;
 
 uses
   Vcl.Forms,
-  Unit1 in '..\..\..\..\Downloads\alpha\alpha\Unit1.pas' {Form1};
+  Unit1 in 'Unit1.pas' {Form1};
 
 {$R *.res}
 
